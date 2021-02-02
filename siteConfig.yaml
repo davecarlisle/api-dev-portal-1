@@ -1,8 +1,8 @@
 meta:
-  title: Redocly Training
-  description: The best API documentation generator ever.
+  title: HPE Digital API's
+  description: The API's enabling HPE's digital models...
   siteUrl: https://portal-demo.redoc.ly
-headerIcon: ./images/logo.png
+headerIcon: ./images/hpe-api-central.png
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
@@ -18,17 +18,17 @@ stylesheets:
 #  - ./static/intercom.js
 nav:
 
-  - label: Training exercises
+  - label: Training docu
     page: developer-portal/index.md
 
-  - label: External docs
-    icon: ./images/redocly-icon-white.png
-    href: https://docs.redoc.ly/developer-portal/introduction/
+  - label: Dev HackShack
+    icon: ./images/hpe-dev-logo.png
+    href: https://hackshack.hpedev.io/
 
   - search: true
 
 footer:
-  copyrightText: Copyright © Redocly 2019-2020. All right reserved.
+  copyrightText: © Copyright 2021 Hewlett Packard Enterprise Development LP
   columns:
     - group: Legal
       items:
