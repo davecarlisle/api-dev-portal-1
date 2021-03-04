@@ -2,7 +2,7 @@ meta:
   title: HPE Digital API's
   description: The API's enabling HPE's digital models...
   siteUrl: https://portal-demo.redoc.ly
-headerIcon: ./images/hpe-api-central.png
+headerIcon: ./images/hpe-api-central-v2.png
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
