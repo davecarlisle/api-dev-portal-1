@@ -39,7 +39,7 @@ training:
       - label: Creating React components
         page: developer-portal/custom-component.mdx
 
-  - group: Subscription Mgmt API
+  - group: Petstore reference
     expanded: false
     pages:
       - page: openapi/reference.page.yaml/*
