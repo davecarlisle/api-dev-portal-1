@@ -21,17 +21,7 @@ nav:
   - label: Training docu
     page: developer-portal/index.md
  
-  - label: HPE Slack
-    icon: ./images/slack-v2.png
-    href: https://slack.hpedev.io/
 
-  - label: HPE Github
-    icon: ./images/github-octocat-white.png
-    href: https://github.com/hewlettpackard/
-
-  - label: Dev HackShack
-    icon: ./images/hpe-dev-logo.png
-    href: https://hackshack.hpedev.io/
 
   - search: true
 
