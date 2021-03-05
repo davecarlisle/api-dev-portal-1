@@ -1,6 +1,6 @@
 training:
   - page: developer-portal/index.md
-  - group: Training exercises
+  - group: Making it real
     expanded: false
     pages:
       - label: Setup
@@ -43,21 +43,6 @@ training:
     expanded: false
     pages:
       - page: openapi/reference.page.yaml/*
-
-  - group: Pricing API
-    expanded: false
-    pages:
-      - page: openapi/reference.page.yaml/*   
-
-  - group: Billing API
-    expanded: false
-    pages:
-      - page: openapi/reference.page.yaml/*      
-
-  - group: Provisioning API
-    expanded: false
-    pages:
-      - page: openapi/reference.page.yaml/*   
 
   - group: Admin
     expanded: true
